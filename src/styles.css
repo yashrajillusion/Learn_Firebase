@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+button {
+  background: transparent;
+  padding: 5px;
+  height: 30px;
+  margin: 5px;
+  border-radius: 6px;
+  background-color: #011f5e;
+  color: white;
+}
+.auth-cont {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
